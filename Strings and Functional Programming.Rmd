@@ -1,8 +1,8 @@
 ---
 title: "Strings and Functional Programming"
-author: "Christina"
+author: "Christina Sun"
 date: "12/10/2021"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
