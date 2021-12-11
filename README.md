@@ -10,4 +10,4 @@ This repository contains the following files:
 + Strings and funtional programming in R.rmd
 + Strings and funtional programming in R.md
 + Figure files folder
-+ R script file of raw R code 
++ R script file of raw R source code 
